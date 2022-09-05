@@ -1,5 +1,4 @@
-{
-  "transactions": [
+ [
     {
       "name": "Pendrive",
       "amount": 500,
@@ -61,4 +60,4 @@
       "id": 14
     }
   ]
-}
+
